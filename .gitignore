@@ -104,9 +104,3 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
-
-# 3GB 博物馆场景模型（超 GitHub 100MB 限制，通过外部存储分享）
-/[Aa]ssets/Scenes/侨批博物馆2楼 1.fbx
-/[Aa]ssets/Scenes/侨批博物馆2楼 1.fbx.meta
-# FBX 导入时自动提取的嵌入媒体文件夹（中间产物，不需要提交）
-*.fbm/
